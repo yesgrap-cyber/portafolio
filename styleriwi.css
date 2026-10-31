@@ -1,0 +1,30 @@
+body{
+    background-color: #d9d8da;
+}
+.site-header {
+  background-color: #6f3fa6;
+}
+.brand-role {
+  font-size: 1rem;
+  font-weight: var(--fw-light);
+  color: #fff;
+}
+.navbar-nav .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #fff;
+  color: var(--purple-dark);
+}
+
+.hero {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.hero-hello {
+  font-size: 1.6rem;
+  font-weight: var(--fw-medium);
+  margin-bottom: 0;
+}
